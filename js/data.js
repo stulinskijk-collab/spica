@@ -94,10 +94,10 @@ window.SITE = {
     "19:00"
   ],
   "poke": "Дзынь-дзынь! 🚲",
-  "ink": "#111111",
+  "ink": "#0B0B0B",
   "confetti": [
     "#C8F23A",
-    "#FFFFFF",
+    "#C8F23A",
     "#FFB49A",
     "#E8E8E0",
     "#FFFFFF"
